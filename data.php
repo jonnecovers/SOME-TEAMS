@@ -48,7 +48,7 @@ $teams = [
             'city' => 'Sosnowiec',
             'page' => 'https://www.uefa.com/womenseuropacup/clubs/2603340--czarni/',
             'url' => 'http://www.czarnisosnowiec.eu/',
-            'logo' => 'http://www.czarnisosnowiec.eu/images/logo.png', // HTTP only: blocked on HTTPS pages, use logo_uefa
+            'logo' => 'https://img.uefa.com/imgml/TP/teams/logos/240x240/2603340.png', // HTTP only: blocked on HTTPS pages, use logo_uefa
             'logo_uefa' => 'https://img.uefa.com/imgml/TP/teams/logos/240x240/2603340.png'
         ],
         'Fenerbahçe' => [
