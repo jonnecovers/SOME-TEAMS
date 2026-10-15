@@ -26,11 +26,7 @@ require (__DIR__ . '/header.php');
                         <img src="<?php echo $team['logo']; ?>"alt="logo">
                         <h3 class="position"><?php echo $team['league-position']?></h3>
 
-                        <?php ; }
-                    
-
-                    
-                ?>
+                        <?php ; }?>
             </article>
         </section>
 
