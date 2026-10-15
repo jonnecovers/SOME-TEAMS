@@ -195,4 +195,4 @@ $teams = [
             'logo' => 'https://www.vfl-wolfsburg.de/_assets/c6bb6cd0ef4342a474168f76207f5023/assets/logo.svg?c=1778353188', // hash + cache-buster, may break
             'logo_uefa' => 'https://img.uefa.com/imgml/TP/teams/logos/240x240/2600828.png'
         ],
-]
+];
